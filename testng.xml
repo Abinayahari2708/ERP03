@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testexec">
+  <test name="Testsa">
+    <classes>
+      
+      <class name="Com.ERP.Master.exectestng"/>
+      <class name="Com.ERP.Master.execcatng"/>
+    </classes>
+  </test> <!-- Testsa -->
+</suite> <!-- Testexec -->
